@@ -1,3 +1,5 @@
-jupiter: maior planeta do sistema solar
-plutão: desconsiderado planeta
-marte: planeta recém mais pesquisado e visitado
+1. Planetas rochosos:
+   - MercÃºrio
+   - VÃªnus
+   - Terra
+   - Marte
