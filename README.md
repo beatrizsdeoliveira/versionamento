@@ -7,4 +7,4 @@ Alguns dos principais comandos utilizados para gerenciar o versionamento do cód
  -  _git commit_ - Registrar/salvar a alteração no repositório;
  -  _git log_ - Visualizar as alterações feitas;
  -  _git remote -v_ - Visualizar o repositório remoto;
- -  _git push -u origin master_ - Publicar as alterações no repositório remoto;
+ -  _git push -u origin master_ - Publicar as alterações no repositório remoto.
