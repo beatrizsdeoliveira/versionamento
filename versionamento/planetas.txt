@@ -3,3 +3,9 @@
    - Vênus
    - Terra
    - Marte
+   
+2. Planetas gasosos:
+   - Júpiter
+   - Saturno
+   - Urano
+   - Netuno
